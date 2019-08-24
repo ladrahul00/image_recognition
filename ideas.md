@@ -1,3 +1,4 @@
-#Create a number detecting algorithm 
-#fix blurred image using AI
+# Tasks
+- Create a number detecting algorithm 
+- fix blurred image using AI
 
